@@ -1,4 +1,4 @@
 # Auto complete for notepad++
-download the file and place it in you notepad++ API folder which should be located here
+download the KOS.xml file and place it in your notepad++ API folder which should be located here
 
 C:\Program Files (x86)\Notepad++\plugins\APIs
