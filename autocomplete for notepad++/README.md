@@ -1,2 +1,4 @@
-# KOS
-here is some stuff I've created with or for Kerbal Operating System feel free to download and try some of it out
+# Auto complete for notepad++
+download the file and place it in you notepad++ API folder which should be located here
+
+C:\Program Files (x86)\Notepad++\plugins\APIs
